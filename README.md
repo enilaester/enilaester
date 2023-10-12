@@ -1,32 +1,32 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&weight=900&size=25&duration=3&pause=2000&color=482EA1&center=true&vCenter=true&random=false&width=435&lines=Oi%F0%9F%91%8B%F0%9F%8F%BD%2C+eu+sou+a+Aline!%F0%9F%91%A9%F0%9F%8F%BD%E2%80%8D%F0%9F%92%BB;Hi+there%F0%9F%91%8B%F0%9F%8F%BD%2C+you+can+call+me++Aline!%F0%9F%91%A9%F0%9F%8F%BD%E2%80%8D%F0%9F%92%BB;Hallo%F0%9F%91%8B%F0%9F%8F%BD+Ich+hei%C3%9Fe+Aline!%F0%9F%91%A9%F0%9F%8F%BD%E2%80%8D%F0%9F%92%BB)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&weight=900&size=25&duration=1&pause=3000&color=49277A&center=true&vCenter=true&random=false&width=435&lines=Oi!+%F0%9F%91%8B%F0%9F%8F%BD+Eu+sou+a+Aline+%F0%9F%91%A9%F0%9F%8F%BD%E2%80%8D%F0%9F%92%BB;Hi!%F0%9F%91%8B%F0%9F%8F%BD+You+can+call+me+Aline+%F0%9F%91%A9%F0%9F%8F%BD%E2%80%8D%F0%9F%92%BB;Hallo!%F0%9F%91%8B%F0%9F%8F%BD+Ich+hei%C3%9Fe+Aline+%F0%9F%91%A9%F0%9F%8F%BD%E2%80%8D%F0%9F%92%BB)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&weight=900&size=18&duration=3&pause=2000&color=482EA1&center=true&vCenter=true&random=false&width=435&lines=Professional+%26+Student+%7C+In+Career+Transition+to+Data+)](https://git.io/typing-svg)
+![Professional & Student | In Career Transition to Data](https://a.imagem.app/o7QxPC.png)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&weight=900&size=18&duration=3&pause=2000&color=482EA1&vCenter=true&random=false&width=435&lines=A+Little+Bit+About+Me+%F0%9F%91%A9%F0%9F%8F%BD)](https://git.io/typing-svg)
+![A Little Bit About Me](https://a.imagem.app/o7QFne.png)
 
 - 🎓 I graduated with a full scholarship in Economics from the Pontifical Catholic University of Minas Gerais (PUC-Minas) - Brazil;
    
-- <img src="https://pic.sopili.net/pub/emoji/twitter/2/72x72/1f913.png" width=20 height=20> I've always loved studying Statistics and that's how I got into the world of data. I started my transition with a bootcamp in Data Analysis!
+- <img src="https://pic.sopili.net/pub/emoji/twitter/2/72x72/1f913.png" width=20 height=20> I've always loved studying Statistics and that's how I got into the world of data. I started my transition with a bootcamp in Data Analysis;
 
 - ✨ Applying Data Science to public policy and social impact projects is one of my main interests;
 
 -  🔭 I'm currently working on my online portfolio and designing a study plan focused on Data Science. To help me with this task, I try to keep in touch with professionals in the field;
 
-- <img src="https://pic.sopili.net/pub/emoji/twitter/2/72x72/1f1e9-1f1ea.png" width=20 height=20> A non-technical challenge at the moment has been learning German!
+- 🗣️ A non-technical challenge at the moment has been learning German; 
   
 - 🐾 I love animals and I am committed to animal welfare.
   
 - 📨 Feel free to contact me on **[LinkedIn](https://www.linkedin.com/in/alineestergomes/)** or **[e-mail](mailto:gomes.alineester@gmail.com)** :)
 *** 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&weight=900&size=18&duration=3&pause=2000&color=482EA1&vCenter=true&random=false&width=435&lines=Languages+I've+Been+Learning)](https://git.io/typing-svg)
+![Languages I've Been Learning](https://a.imagem.app/o7Qjm9.png)
 
 ![Image](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![Image](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-***
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&weight=900&size=18&duration=3&pause=2000&color=482EA1&vCenter=true&random=false&width=435&lines=Some+Tools+I'm+Familiar+WIth)](https://git.io/typing-svg)
+
+![o7QJqa.png](https://a.imagem.app/o7QJqa.png)
 
 ![Image](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white)
 ![Image](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
@@ -43,9 +43,8 @@
 ![Image](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
 ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
-***
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&weight=900&size=25&duration=2&pause=2000&color=4B1B97&background=FFE7E700&center=true&vCenter=true&random=false&width=435&lines=Thank+you+for+visiting!+%F0%9F%A4%9D%F0%9F%8F%BD)](https://git.io/typing-svg)
+![o7QfgT.png](https://a.imagem.app/o7QfgT.png)
 
 
 
