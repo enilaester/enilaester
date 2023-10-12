@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&weight=900&size=25&duration=1&pause=3000&color=49277A&center=true&vCenter=true&random=false&width=435&lines=Oi!+%F0%9F%91%8B%F0%9F%8F%BD+Eu+sou+a+Aline+%F0%9F%91%A9%F0%9F%8F%BD%E2%80%8D%F0%9F%92%BB;Hi!%F0%9F%91%8B%F0%9F%8F%BD+You+can+call+me+Aline+%F0%9F%91%A9%F0%9F%8F%BD%E2%80%8D%F0%9F%92%BB;Hallo!%F0%9F%91%8B%F0%9F%8F%BD+Ich+hei%C3%9Fe+Aline+%F0%9F%91%A9%F0%9F%8F%BD%E2%80%8D%F0%9F%92%BB)](https://git.io/typing-svg)
 
-![Professional & Student | In Career Transition to Data](https://a.imagem.app/o7QxPC.png)
+![Professional & Student | In Career Transition to Data](https://a.imagem.app/o7QxPC.png) 
 
 ![A Little Bit About Me](https://a.imagem.app/o7QFne.png)
 
@@ -16,11 +16,12 @@
   
 - 🐾 I love animals and I am committed to animal welfare.
   
-- 📨 Feel free to contact me on **[LinkedIn](https://www.linkedin.com/in/alineestergomes/)** or **[e-mail](mailto:gomes.alineester@gmail.com)** :)
-*** 
-![Languages I've Been Learning](https://a.imagem.app/o7Qjm9.png)
+- 📨 Feel free to contact me on [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alineestergomes/) or [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gomes.alineester@gmail.com) :)
 
-![Image](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+***
+  
+![Languages I've Been Learning](https://a.imagem.app/o7Qjm9.png)
+![Image](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)        
 ![Image](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
